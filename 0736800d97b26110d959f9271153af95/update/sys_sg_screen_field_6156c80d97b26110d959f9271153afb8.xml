@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>can_print</data_item_field_name>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>130</order>
+        <record_id_field/>
+        <screen display_value="Details">1956c80d97b26110d959f9271153af97</screen>
+        <screen_data_item_table>cmdb_ci_appl_dot_net</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-12 07:59:39</sys_created_on>
+        <sys_id>6156c80d97b26110d959f9271153afb8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>can_print</sys_name>
+        <sys_package display_value="NewApp" source="x_716863_newapp">0736800d97b26110d959f9271153af95</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NewApp">0736800d97b26110d959f9271153af95</sys_scope>
+        <sys_update_name>sys_sg_screen_field_6156c80d97b26110d959f9271153afb8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-12 07:59:39</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+</record_update>

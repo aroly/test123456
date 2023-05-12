@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (.NET Application)">2d56c80d97b26110d959f9271153afbe</button>
+        <item_parameter display_value=".NET Application business_unit">a156c80d97b26110d959f9271153afbd</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-12 07:59:39</sys_created_on>
+        <sys_id>2956c80d97b26110d959f9271153afc6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a156c80d97b26110d959f9271153afbd</sys_name>
+        <sys_package display_value="NewApp" source="x_716863_newapp">0736800d97b26110d959f9271153af95</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NewApp">0736800d97b26110d959f9271153af95</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_2956c80d97b26110d959f9271153afc6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-12 07:59:39</sys_updated_on>
+        <ui_parameter display_value="Business Unit">2156c80d97b26110d959f9271153afc3</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
